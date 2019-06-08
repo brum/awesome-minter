@@ -30,4 +30,4 @@ A curated list of awesome Minter ecosystem, including validator projects and com
   - [MinterKarmaBot](https://t.me/MinterKarmaBot) -  Telegram Bot for checking quantity KARMA coins by address.
 
 - [MinterMania group](https://t.me/mintermania) - MinterMania official telegram channel
- - [MinterMania game bot](https://t.me/mintermaniabot) -  Telegram Bot with few cash games for coin based on Minter
+  - [MNTRMANIA game bot](https://t.me/mintermaniabot) -  Telegram Bot with few cash games for coin based on Minter
