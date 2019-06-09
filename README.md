@@ -28,6 +28,7 @@ A curated list of awesome Minter ecosystem, including validator projects and com
 
 - [🍃 Minterscan](https://minterscan.net) — Alternative Minter Network Explorer
   - [Minter Whales](https://t.me/minter_alert) — Monitoring transactions over 100 000 BIP 
-
 - [4U:Team](https://t.me/minter4u) - 4U:Team official telegram channel
   - [MinterKarmaBot](https://t.me/MinterKarmaBot) -  Telegram Bot for checking quantity KARMA coins by address.
+- [MinterMania group](https://t.me/mintermania) - MinterMania official telegram channel
+  - [MNTRMANIA game bot](https://t.me/mintermaniabot) -  Telegram Bot with few cash games for coin based on Minter
